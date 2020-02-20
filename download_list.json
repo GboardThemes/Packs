@@ -164,9 +164,24 @@
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Animal%20Gray.zip",
       "title":"Animal Gray"
    },
-      {
+   {
       "author":"Fakefams",
-      "url":"https://github.com/fakefams/FakeFams/raw/master/gboard_theme.zip",
-      "title":"Fakefams pack"
+      "url":"https://github.com/fakefams/FakeFams/raw/master/3D_ThemePack.zip",
+      "title":"3D_Theme Pack"
+   },
+   {
+      "author":"Fakefams",
+      "url":"https://github.com/fakefams/FakeFams/raw/master/Another_ThemePack.zip",
+      "title":"Another_Theme Pack"
+   },
+   {
+      "author":"Fakefams",
+      "url":"https://github.com/fakefams/FakeFams/raw/master/Ios_ThemePack.zip",
+      "title":"Ios_Theme Pack"
+   },
+   {
+      "author":"Fakefams",
+      "url":"https://github.com/fakefams/FakeFams/raw/master/Outline_ThemePack.zip",
+      "title":"Outline_Theme Pack"
    }
 ]
