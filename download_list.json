@@ -2,391 +2,470 @@
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/Rthemes.zip?raw=true",
-      "title":"Rboard"
+      "title":"Rboard",
+      "tags": ["unique"]
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/IOSPACK.zip?raw=true",
-      "title":"iOS"
+      "title":"iOS",
+      "tags": ["iOS"]
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/allo.zip?raw=true",
-      "title":"allo"
+      "title":"allo",
+      "tags": []
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/Razr.zip?raw=true",
-      "title":"Razr"
+      "title":"Razr",
+      "tags": ["dark", "border"]
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/Swiftkey.zip?raw=true",
-      "title":"Swiftkey"
+      "title":"Swiftkey",
+      "tags": []
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/Vivid.zip?raw=true",
-      "title":"Vivid Swift"
+      "title":"Vivid Swift",
+      "tags": []
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/MinimalBright.zip?raw=true",
-      "title":"Minimal Bright Swift"
+      "title":"Minimal Bright Swift",
+      "tags": []
+
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/Carbonpack.zip?raw=true",
-      "title":"Carbon pack Swiftkey"
+      "title":"Carbon pack Swiftkey",
+      "tags": []
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/SwiftIOS.zip?raw=true",
-      "title":"Swiftkey IOS"
+      "title":"Swiftkey IOS",
+      "tags": []
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/gemstone.zip?raw=true",
-      "title":"Gemstone Swift"
+      "title":"Gemstone Swift",
+      "tags": []
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/Flex.zip",
-      "title":"Fleksy"
+      "title":"Fleksy",
+      "tags": []
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/Chrome.zip",
-      "title":"Chrome"
+      "title":"Chrome",
+      "tags": []
    },
    {
       "author":"Google",
       "url":"https://github.com/GboardThemes/Packs/raw/master/landscapes.zip",
-      "title":"landscapes"
+      "title":"landscapes",
+      "tags": []
    },
    {
       "author":"Google",
       "url":"https://github.com/GboardThemes/Packs/raw/master/gboard_gradients.zip",
-      "title":"Gradients"
+      "title":"Gradients",
+      "tags": []
    },
    {
-      "author":"Google",
+      "author":"RKBDI Google",
       "url":"https://github.com/GboardThemes/Packs/raw/master/Hidden.zip",
-      "title":"Hidden"
+      "title":"Hidden",
+      "tags": []
    },
    {
-      "author":"Xiaomi",
+      "author":"RKBDI Xiaomi",
       "url":"https://github.com/GboardThemes/Packs/raw/master/xiaomi.zip",
-      "title":"Poco"
+      "title":"Poco",
+      "tags": []
    },
    {
       "author":"Oppo",
       "url":"https://github.com/GboardThemes/Packs/raw/master/oppo.zip",
-      "title":"Oppo Theme"
+      "title":"Oppo Theme",
+      "tags": []
    },
    {
       "author":"Gabriel Howard",
       "url":"https://github.com/TheGabrielHoward/GboardThemesPacks/raw/master/GabrielPack.zip?raw=true",
-      "title":"Gabrielpack"
+      "title":"Gabrielpack",
+      "tags": []
    },
    {
       "author":"Premzvenom",
       "url":"https://github.com/GboardThemes/Packs/raw/master/premzvenompack.zip",
-      "title":"Premzvenompack"
+      "title":"Premzvenompack",
+      "tags": []
    },
    {
       "author":"Eren Metesar",
       "url":"https://github.com/erenmetesar/GboardThemes/raw/master/ErenMetesar%20Theme%20Pack.zip?raw=true",
-      "title":"ElegantPack"
+      "title":"ElegantPack",
+      "tags": []
    },
    {
       "author":"Vortex",
       "url":"https://github.com/gello0/MD2-colors/raw/master/MD2-Colors.zip?raw=true",
-      "title":"md2 colors"
+      "title":"md2 colors",
+      "tags": []
    },
    {
       "author":"Omarfit",
       "url":"https://github.com/Omarfit13/Gboardthemes/raw/master/Omar%20Fit%20Themes.zip?raw=true",
-      "title":"Omar Fit themes"
+      "title":"Omar Fit themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Colors_Dark.zip",
-      "title":"Colors Dark"
+      "title":"Colors Dark",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Colors_Light.zip",
-      "title":"Colors Light"
+      "title":"Colors Light",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Swift_material.zip",
-      "title":"Swift material"
+      "title":"Swift material",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Style_material.zip",
-      "title":"Style material"
+      "title":"Style material",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Colored_keys.zip",
-      "title":"Colored keys"
+      "title":"Colored keys",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Black_Themes.zip",
-      "title":"Black themes"
+      "title":"Black themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Blue_Themes.zip",
-      "title":"Blue themes"
+      "title":"Blue themes",
+      "tags": []
    },
    {
       "author": "Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Nord_Themes.zip",
-      "title":"Nord themes"
+      "title":"Nord themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Mix.zip",
-      "title":"Mix Themes"
+      "title":"Mix Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Grey_Themes.zip",
-      "title":"Grey Themes"
+      "title":"Grey Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Material_ocean_themes.zip",
-      "title":"Material Oceans"
+      "title":"Material Oceans",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Material_grey.zip",
-      "title":"Grey Material Themes"
+      "title":"Grey Material Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/White_themes.zip",
-      "title":"White Themes"
+      "title":"White Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Black_Themes_V2.zip",
-      "title":"Dark Black Themes"
+      "title":"Dark Black Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Snowys.zip",
-      "title":"Snowy Themes"
+      "title":"Snowy Themes",
+      "tags": []
    },
    {
       "author": "RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/rboard2.zip?raw=true",
-      "title":"Rboard 2"
+      "title":"Rboard 2",
+      "tags": []
    },
    {
       "author": "Leese",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Animal Black.zip",
-      "title":"Animal Black"
+      "title":"Animal Black",
+      "tags": []
    },
    {
       "author": "Leese",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Animal%20Gray.zip",
-      "title":"Animal Gray"
+      "title":"Animal Gray",
+      "tags": []
    },
    {
       "author": "Leese",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Animal%20White.zip",
-      "title":"Animal White"
+      "title":"Animal White",
+      "tags": []
    },
    {
       "author": "Leese",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Gem_Black.zip",
-      "title":"Gem Black"
+      "title":"Gem Black",
+      "tags": []
    },
    {
       "author":"Fakefams",
       "url":"https://github.com/fakefams/FakeFams/raw/master/3D_ThemePack.zip",
-      "title":"3D_Theme Pack"
+      "title":"3D Theme Pack",
+      "tags": []
    },
    {
       "author":"Fakefams",
       "url":"https://github.com/fakefams/FakeFams/raw/master/Another_ThemePack.zip",
-      "title":"Another_Theme Pack"
+      "title":"Another Theme Pack",
+      "tags": []
    },
    {
       "author":"Fakefams",
       "url":"https://github.com/fakefams/FakeFams/raw/master/Ios_ThemePack.zip",
-      "title":"Ios_Theme Pack"
+      "title":"Ios Theme Pack",
+      "tags": []
    },
    {
       "author":"Fakefams",
       "url":"https://github.com/fakefams/FakeFams/raw/master/Outline_ThemePack.zip",
-      "title":"Outline_Theme Pack"
+      "title":"Outline Theme Pack",
+      "tags": []
    },
    {
       "author":"RKBDI",
       "url":"https://github.com/GboardThemes/Packs/raw/master/Xperia_Themes.zip",
-      "title":"Xperia Themes"
+      "title":"Xperia Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Colorful.zip",
-      "title":"Colorful"
+      "title":"Colorful",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Material-ocean-gboard-theme/raw/master/Material_ocean_lively.zip",
-      "title":"Material Oceans Lively"
+      "title":"Material Oceans Lively",
+      "tags": []
    },
    {
       "author":"Andro",
       "url":"https://github.com/AndroBuddy/Gboard-Themes/raw/master/Fluid%20Pack%20by%20Andro.zip",
-      "title":"Fluid Theme"
+      "title":"Fluid Theme",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Redesigns_pack.zip",
-      "title":"Redesign Pack"
+      "title":"Redesign Pack",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Redesigns_Modified.zip",
-      "title":"Redesign Modified Pack"
+      "title":"Redesign Modified Pack",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Desaturated_pack.zip",
-      "title":"Desaturated Pack"
+      "title":"Desaturated Pack",
+      "tags": []
    },
    {
       "author":"Andro",
       "url":"https://github.com/AndroBuddy/Gboard-Themes/raw/master/Nord%20Dark%20v2.zip",
-      "title":"Nord V2 Dark"
+      "title":"Nord V2 Dark",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Dracula_Theme_Pack.zip",
-      "title":"Dracula Pack"
+      "title":"Dracula Pack",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/DarkGrey.zip",
-      "title":"Dark Grey Pack"
+      "title":"Dark Grey Pack",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Feather_Pack.zip",
-      "title":"Feather Pack"
+      "title":"Feather Pack",
+      "tags": []
    },
    {
       "author":"Leese",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Android_pack.zip",
-      "title":"Android Pack"
+      "title":"Android Pack",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/PitchBlack.zip",
-      "title":"PitchBlack Pack"
+      "title":"PitchBlack Pack",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive.zip",
-      "title":"Exclusive Pack"
+      "title":"Exclusive Pack",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Borderless_Material.zip",
-      "title":"Borderless Material Pack"
+      "title":"Borderless Material Pack",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Mixed_Bordeless_Themes.zip",
-      "title":"Mixed Borderless Themes"
+      "title":"Mixed Borderless Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/NightLight_Themes.zip",
-      "title":"NightLight Themes"
+      "title":"NightLight Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Bluish_Themes.zip",
-      "title":"Bluish Themes"
+      "title":"Bluish Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Nero_Themes.zip",
-      "title":"Nero Themes"
+      "title":"Nero Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Arctic_Themes.zip",
-      "title":"Arctic Themes"
+      "title":"Arctic Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_2.zip",
-      "title":"Exclusive Pack 2"
+      "title":"Exclusive Pack 2",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Halloween_Pack.zip",
-      "title":"Halloween Themes"
+      "title":"Halloween Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_3.zip",
-      "title":"Exclusive Pack 3"
+      "title":"Exclusive Pack 3",
+      "tags": []
    },
    {
       "author":"Nitanmarcel",
       "url":"https://github.com/nitanmarcel/GboardThemePacks/raw/main/Cyberpunk.zip",
-      "title":"Cyberpunk"
+      "title":"Cyberpunk",
+      "tags": []
    },
    {
       "author":"Mahmoudk1000",
       "url":"https://github.com/Mahmoudk1000/Rboard-CoolThemes/blob/master/Cool%20Themes.zip?raw=true",
-      "title":"Cool Themes"
+      "title":"Cool Themes",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Minecraft_Pack.zip",
-      "title":"Minecraft Themes"
+      "title":"Minecraft Themes",
+      "tags": []
    },
    {
       "author":"MLZ",
       "url":"https://github.com/MLZ94/MLZtemes/raw/main/MLZ_themes.zip",
-      "title":"MLZ Themes"
+      "title":"MLZ Themes",
+      "tags": []
    },
    {
       "author":"MLZ",
       "url":"https://github.com/MLZ94/MLZtemes/raw/main/Nice_Evening.zip",
-      "title":"Nice Evening"
+      "title":"Nice Evening",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_4.zip",
-      "title":"Exclusive Pack 4"
+      "title":"Exclusive Pack 4",
+      "tags": []
    },
    {
       "author":"MLZ",
       "url":"https://github.com/MLZ94/MLZtemes/raw/main/Cyberpunk_2.zip",
-      "title":"Cyberpunk 2"
+      "title":"Cyberpunk 2",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Logo_Pack.zip",
-      "title":"Logo Pack"
+      "title":"Logo Pack",
+      "tags": []
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Rounded_Pack.zip",
-      "title":"Rounded Pack"
+      "title":"Rounded Pack",
+      "tags": []
    }
 ]
