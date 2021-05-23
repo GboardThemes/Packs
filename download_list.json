@@ -394,13 +394,13 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Arctic_Themes.zip",
       "title":"Arctic Themes",
-      "tags": ["White", "Border"]
+      "tags": ["White", "Light", "Border"]
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_2.zip",
       "title":"Exclusive Pack 2",
-      "tags": ["Unique", "Dark", "Border", "Exclusive"]
+      "tags": ["Unique", "Light", "Dark", "Border", "Exclusive"]
    },
    {
       "author":"Akos Paha",
@@ -412,7 +412,7 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_3.zip",
       "title":"Exclusive Pack 3",
-      "tags": ["Unique", "Dark", "Border", "Exclusive"]
+      "tags": ["Unique", "Light", "Dark", "Border", "Exclusive"]
    },
    {
       "author":"Nitanmarcel",
@@ -460,7 +460,7 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Logo_Pack.zip",
       "title":"Logo Pack",
-      "tags": ["Rboard Logo"]
+      "tags": ["Rboard Logo", "Light", "Dark"]
    },
    {
       "author":"Akos Paha",
@@ -472,12 +472,24 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_5.zip",
       "title":"Exclusive Pack 5",
-      "tags": ["Unique", "Dark", "Border", "Exclusive"]
+      "tags": ["Unique", "Light", "Dark", "Border", "Exclusive"]
    },
    {
       "author":"DerTyp7214",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Generated_Colors.zip",
       "title":"Generated Colors Themes",
       "tags": ["Unique", "Border"]
+   },
+   {
+      "author":"Akos Paha",
+      "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/MPack_Light.zip",
+      "title":"MPack Light Themes",
+      "tags": ["Border", "Light"]
+   },
+   {
+      "author":"Akos Paha",
+      "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/MPack_Dark.zip",
+      "title":"MPack Dark Themes",
+      "tags": ["Border", "Dark"]
    }
 ]
