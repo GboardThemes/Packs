@@ -1,0 +1,20 @@
+[
+   {
+      "image" : "https://i.imgur.com/eWeBxOO.png"
+      "author":"RKBDI",
+      "url":"https://github.com/GboardThemes/Packs/raw/master/Rthemes.zip?raw=true",
+      "title":"Rboard",
+   },
+   {
+   "image" : "https://i.imgur.com/P5A1W8c.png"
+    "author":"Akos Paha",
+    "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/MPack_Light.zip",
+    "title":"MPack Light Themes",
+ },
+ {
+    "image" : "https://i.imgur.com/lPZ51rx.png"
+    "author":"Akos Paha",
+    "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/MPack_Dark.zip",
+    "title":"MPack Dark Themes",
+ }
+]
