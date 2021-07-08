@@ -1,5 +1,5 @@
 {
-  "time": "1625787536198",
+  "time": "1625787536200",
   "flags": [
     {
       "key": "general",
@@ -122,7 +122,7 @@
       "key": "enable_key_border",
       "title": "enable_key_border",
       "summary": "",
-      "icon": "ic_key_boarder",
+      "icon": "ic_key_border",
       "defaultValue": false,
       "type": "BOOLEAN",
       "file": "GBOARD_PREFERENCES"
