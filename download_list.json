@@ -491,5 +491,11 @@
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/MPack_Dark.zip",
       "title":"MPack Dark Themes",
       "tags": ["Border", "Dark"]
+   },
+   {
+      "author":"Akos Paha",
+      "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Material3_Pack.zip",
+      "title":"Material3 Themes",
+      "tags": ["Light" , "Dark"]
    }
 ]
