@@ -1,5 +1,5 @@
 {
-  "time": "1631396197908",
+  "time": "1631396421664",
   "flags": [
     {
       "key": "general",
@@ -270,7 +270,7 @@
       "file": "FLAGS"
     },
     {
-      "key": "enable_get_bitmoji_card",
+      "key": "enable_bitmoji_contextual_category_icon",
       "title": "enable_bitmoji_contextual_category_icon",
       "summary": "",
       "icon": "ic_bitmoji",
