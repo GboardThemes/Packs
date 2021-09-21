@@ -148,13 +148,13 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Swift_material.zip",
       "title":"Swift material",
-      "tags": ["Material"]
+      "tags": ["Material", "Fixed"]
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Style_material.zip",
       "title":"Style material",
-      "tags": ["Material"]
+      "tags": ["Material", "Fixed"]
    },
    {
       "author":"Akos Paha",
@@ -172,7 +172,7 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Blue_Themes.zip",
       "title":"Blue themes",
-      "tags": []
+      "tags": ["Fixed"]
    },
    {
       "author": "Akos Paha",
@@ -196,7 +196,7 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Material_ocean_themes.zip",
       "title":"Material Oceans",
-      "tags": ["Dark", "Material"]
+      "tags": ["Dark", "Material", "Fixed"]
    },
    {
       "author":"Akos Paha",
@@ -208,19 +208,19 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/White_themes.zip",
       "title":"White Themes",
-      "tags": ["White", "Border"]
+      "tags": ["White", "Border", "Fixed"]
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Black_Themes_V2.zip",
       "title":"Dark Black Themes",
-      "tags": ["Black", "Border"]
+      "tags": ["Black", "Border", "Fixed"]
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Snowys.zip",
       "title":"Snowy Themes",
-      "tags": []
+      "tags": ["Fixed"]
    },
    {
       "author": "RKBDI",
@@ -286,13 +286,13 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Colorful.zip",
       "title":"Colorful",
-      "tags": ["Colorful"]
+      "tags": ["Colorful", "Fixed"]
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Material-ocean-gboard-theme/raw/master/Material_ocean_lively.zip",
       "title":"Material Oceans Lively",
-      "tags": ["Dark", "Material"]
+      "tags": ["Dark", "Material", "Fixed"]
    },
    {
       "author":"Andro",
@@ -304,13 +304,13 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Redesigns_pack.zip",
       "title":"Redesign Pack",
-      "tags": ["Redesign", "Border"]
+      "tags": ["Redesign", "Border", "Fixed"]
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Redesigns_Modified.zip",
       "title":"Redesign Modified Pack",
-      "tags": ["Redesign", "Border"]
+      "tags": ["Redesign", "Border", "Fixed"]
    },
    {
       "author":"Akos Paha",
@@ -334,13 +334,13 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/DarkGrey.zip",
       "title":"Dark Grey Pack",
-      "tags": ["Dark"]
+      "tags": ["Dark", "Fixed"]
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Feather_Pack.zip",
       "title":"Feather Pack",
-      "tags": ["Borderless"]
+      "tags": ["Borderless", "Fixed"]
    },
    {
       "author":"Leese",
@@ -358,7 +358,7 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive.zip",
       "title":"Exclusive Pack",
-      "tags": ["Unique", "Dark", "Border", "Exclusive"]
+      "tags": ["Unique", "Dark", "Border", "Exclusive", "Fixed"]
    },
    {
       "author":"Akos Paha",
@@ -376,19 +376,19 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/NightLight_Themes.zip",
       "title":"NightLight Themes",
-      "tags": ["Dark", "Border"]
+      "tags": ["Dark", "Border", "Fixed"]
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Bluish_Themes.zip",
       "title":"Bluish Themes",
-      "tags": []
+      "tags": ["Fixed"]
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Nero_Themes.zip",
       "title":"Nero Themes",
-      "tags": []
+      "tags": ["Border", "Fixed"]
    },
    {
       "author":"Akos Paha",
@@ -466,7 +466,7 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Rounded_Pack.zip",
       "title":"Rounded Pack",
-      "tags": []
+      "tags": ["Border", "Fixed"]
    },
    {
       "author":"Akos Paha",
@@ -484,18 +484,18 @@
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/MPack_Light.zip",
       "title":"MPack Light Themes",
-      "tags": ["Border", "Light"]
+      "tags": ["Border", "Light", "Fixed"]
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/MPack_Dark.zip",
       "title":"MPack Dark Themes",
-      "tags": ["Border", "Dark"]
+      "tags": ["Border", "Dark", "Fixed"]
    },
    {
       "author":"Akos Paha",
       "url":"https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Material3_Pack.zip",
       "title":"Material3 Themes",
-      "tags": ["Light" , "Dark"]
+      "tags": ["Light" , "Dark", "Fixed"]
    }
 ]
