@@ -1,104 +1,104 @@
 [
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/Rthemes.zip?raw=true",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/Rthemes.zip?raw=true",
       "title":"Rboard",
       "tags": ["Unique"]
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/IOSPACK.zip?raw=true",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/IOSPACK.zip?raw=true",
       "title":"iOS",
       "tags": ["IOS"]
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/allo.zip?raw=true",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/allo.zip?raw=true",
       "title":"allo",
       "tags": []
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/Razr.zip?raw=true",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/Razr.zip?raw=true",
       "title":"Razr",
       "tags": ["Dark", "Border"]
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/Swiftkey.zip?raw=true",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/Swiftkey.zip?raw=true",
       "title":"Swiftkey",
       "tags": []
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/Vivid.zip?raw=true",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/Vivid.zip?raw=true",
       "title":"Vivid Swift",
       "tags": []
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/MinimalBright.zip?raw=true",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/MinimalBright.zip?raw=true",
       "title":"Minimal Bright Swift",
       "tags": []
 
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/Carbonpack.zip?raw=true",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/Carbonpack.zip?raw=true",
       "title":"Carbon pack Swiftkey",
       "tags": []
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/SwiftIOS.zip?raw=true",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/SwiftIOS.zip?raw=true",
       "title":"Swiftkey IOS",
       "tags": []
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/gemstone.zip?raw=true",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/gemstone.zip?raw=true",
       "title":"Gemstone Swift",
       "tags": []
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/Flex.zip",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/Flex.zip",
       "title":"Fleksy",
       "tags": []
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/Chrome.zip",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/Chrome.zip",
       "title":"Chrome",
       "tags": []
    },
    {
       "author":"Google",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/landscapes.zip",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/landscapes.zip",
       "title":"landscapes",
       "tags": []
    },
    {
       "author":"Google",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/gboard_gradients.zip",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/gboard_gradients.zip",
       "title":"Gradients",
       "tags": []
    },
    {
       "author":"RKBDI Google",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/Hidden.zip",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/Hidden.zip",
       "title":"Hidden",
       "tags": []
    },
    {
       "author":"RKBDI Xiaomi",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/xiaomi.zip",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/xiaomi.zip",
       "title":"Poco",
       "tags": []
    },
    {
       "author":"Oppo",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/oppo.zip",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/oppo.zip",
       "title":"Oppo Theme",
       "tags": []
    },
@@ -110,7 +110,7 @@
    },
    {
       "author":"Premzvenom",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/premzvenompack.zip",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/premzvenompack.zip",
       "title":"Premzvenompack",
       "tags": []
    },
@@ -224,7 +224,7 @@
    },
    {
       "author": "RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/rboard2.zip?raw=true",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/rboard2.zip?raw=true",
       "title":"Rboard 2",
       "tags": []
    },
@@ -278,7 +278,7 @@
    },
    {
       "author":"RKBDI",
-      "url":"https://github.com/GboardThemes/Packs/raw/master/Xperia_Themes.zip",
+      "url":"https://github.com/PackRepoBeta/raw/main/packs/Xperia_Themes.zip",
       "title":"Xperia Themes",
       "tags": []
    },
