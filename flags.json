@@ -1,5 +1,5 @@
 {
-  "time": "1631450578072",
+  "time": "1646936790156",
   "flags": [
     {
       "key": "general",
@@ -31,6 +31,16 @@
           "second": "disabled"
         }
       ]
+    },
+    {
+      "key": "enable_get_bitmoji_card",
+      "title": "enable_get_bitmoji_card",
+      "summary": "",
+      "icon": "ic_bitmoji",
+      "defaultValue": false,
+      "type": "BOOLEAN",
+      "file": "FLAGS",
+      "visible": true
     },
     {
       "key": "enable_joystick_delete",
@@ -149,6 +159,16 @@
       "file": "GBOARD_PREFERENCES"
     },
     {
+      "key": "keyboard_redesign_google_sans",
+      "title": "keyboard_redesign_google_sans",
+      "summary": "",
+      "icon": "ic_g_sans",
+      "defaultValue": false,
+      "type": "BOOLEAN",
+      "file": "FLAGS",
+      "visible": true
+    },
+    {
       "key": "branding",
       "title": "show_branding_on_space",
       "summary": "show_branding_on_space",
@@ -226,6 +246,7 @@
       "minSdk": 31,
       "linkedKeys": [
         "use_silk_theme_by_default",
+        "silk_on_all_devices",
         "silk_on_all_pixel",
         "silk_theme"
       ]
@@ -233,6 +254,16 @@
     {
       "key": "use_silk_theme_by_default",
       "title": "use_silk_theme_by_default",
+      "summary": "",
+      "icon": "ic_themes",
+      "defaultValue": false,
+      "type": "BOOLEAN",
+      "file": "FLAGS",
+      "visible": false
+    },
+    {
+      "key": "silk_on_all_devices",
+      "title": "silk_on_all_devices",
       "summary": "",
       "icon": "ic_themes",
       "defaultValue": false,
@@ -255,6 +286,37 @@
       "title": "silk_theme",
       "summary": "",
       "icon": "ic_themes",
+      "defaultValue": false,
+      "type": "BOOLEAN",
+      "file": "FLAGS",
+      "visible": false
+    },{
+      "key": "silk",
+      "title": "silk",
+      "summary": "silk_details",
+      "icon": "ic_silk_popup",
+      "defaultValue": false,
+      "type": "BOOLEAN",
+      "linkedKeys": [
+        "silk_popup",
+        "silk_key_press"
+      ]
+    },
+    {
+      "key": "silk_popup",
+      "title": "silk_popup",
+      "summary": "",
+      "icon": "ic_silk_popup",
+      "defaultValue": false,
+      "type": "BOOLEAN",
+      "file": "FLAGS",
+      "visible": false
+    },
+    {
+      "key": "silk_key_press",
+      "title": "silk_key_press",
+      "summary": "",
+      "icon": "ic_silk_popup",
       "defaultValue": false,
       "type": "BOOLEAN",
       "file": "FLAGS",
@@ -302,6 +364,24 @@
       "title": "enable_auto_float_keyboard_in_multi_window",
       "summary": "",
       "icon": "ic_float",
+      "defaultValue": false,
+      "type": "BOOLEAN",
+      "file": "FLAGS"
+    },
+    {
+      "key": "enable_floating_keyboard_v2",
+      "title": "enable_floating_keyboard_v2",
+      "summary": "",
+      "icon": "ic_float_v2",
+      "defaultValue": false,
+      "type": "BOOLEAN",
+      "file": "FLAGS"
+    },
+    {
+      "key": "translate_new_ui",
+      "title": "translate_new_ui",
+      "summary": "",
+      "icon": "ic_translate_new_ui",
       "defaultValue": false,
       "type": "BOOLEAN",
       "file": "FLAGS"
